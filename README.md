@@ -1,4 +1,4 @@
-### Hi there, I'm Dale 
+### Hi there, I'm Dale Paña
 
 A Computer Science student focused on both frontend and backend web development based in Zamboanga City, Philippines. I build responsive web interfaces, robust backend APIs, and efficient database architectures.
 
