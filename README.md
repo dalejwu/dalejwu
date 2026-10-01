@@ -26,4 +26,4 @@ Computer Science student focused on both frontend and backend web development ba
 ---
 
 📫 **Let's Connect:**
-[LinkedIn](https://linkedin.com) • [Email](mailto:your.email@example.com)
+[LinkedIn](linkedin.com/in/dale-paña-3193a72a4) • [Email](mailto:dalejwu@gmail.com)
