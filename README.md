@@ -17,4 +17,4 @@ A Computer Science student focused on both frontend and backend web development 
 ---
 
  **Let's Connect:**
-[LinkedIn](www.linkedin.com/in/dalejwu) • [Email](mailto:dalejwu@gmail.com) • [Organization](https://mihatechnologies.com/)
+[LinkedIn]([www.linkedin.com/in/dalejwu](https://www.linkedin.com/in/dalejwu/?isSelfProfile=true)) • [Email](mailto:dalejwu@gmail.com) • [Organization](https://mihatechnologies.com/)
