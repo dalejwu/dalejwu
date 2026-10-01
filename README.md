@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm Dale 👋
 
-<!--
-**dalejwu/dalejwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on both frontend and backend web development based in Zamboanga City, Philippines. I build responsive web interfaces, robust backend APIs, and efficient database architectures.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Frontend interfaces & backend services (PHP, Node.js, MySQL)
+- 💼 **Portfolio:** [dalejwu.vercel.app](https://dalejwu.vercel.app)
+- ⚡ **Interests:** Clean code, database design, and systems performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** Node.js, PHP, REST APIs
+- **Databases & Tools:** MySQL, XAMPP, Git, VS Code
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dalejwu&show_icons=true&theme=radical&hide_border=true" alt="Dale's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalejwu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+📫 **Let's Connect:**
+[LinkedIn](https://linkedin.com) • [Email](mailto:your.email@example.com)
