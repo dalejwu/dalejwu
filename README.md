@@ -17,4 +17,4 @@ A Computer Science student focused on both frontend and backend web development 
 ---
 
  **Let's Connect:**
-[LinkedIn](linkedin.com/in/dale-paña-3193a72a4) • [Email](mailto:dalejwu@gmail.com)
+[LinkedIn](linkedin.com/in/dale-paña-3193a72a4) • [Email](mailto:dalejwu@gmail.com) • [Organization](https://mihatechnologies.com/)
