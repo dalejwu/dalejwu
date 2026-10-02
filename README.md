@@ -1,6 +1,6 @@
 ### Hi there, I'm Dale Paña
 
-A Computer Science student focused on both frontend and backend web development based in Zamboanga City, Philippines. I build responsive web interfaces, robust backend APIs, and efficient database architectures.
+A Computer Science student and Product & UI Designer based in Zamboanga City, Philippines. I design intuitive user experiences, responsive interfaces, and scalable design systems grounded in technical feasibility.
 
 -  **Current Focus:** Frontend interfaces & backend services (PHP, Node.js, MySQL)
 -  **Portfolio:** [dalejwu.vercel.app](https://dalejwu.vercel.app)
