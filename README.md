@@ -1,20 +1,22 @@
-### Hi there, I'm Dale Paña
+### Dale Paña
 
-A Computer Science student and Product & UI Designer based in Zamboanga City, Philippines. I design intuitive user experiences, responsive interfaces, and scalable design systems grounded in technical feasibility.
+Computer Science student and Product & UI Designer based in Zamboanga City, Philippines. I design user interfaces and build web applications.
 
--  **Current Focus:** Frontend interfaces & backend services (PHP, Node.js, MySQL)
--  **Portfolio:** [dalejwu.vercel.app](https://dalejwu.vercel.app)
--  **Interests:** Clean code, database design, and systems performance
+- **Design:** Wireframing, prototyping, design systems
+- **Development:** Frontend & backend (PHP, Node.js, MySQL)
+- **Portfolio:** [dalejwu.vercel.app](https://dalejwu.vercel.app)
 
 ---
 
-###  Tech Stack & Skills
+### Tech Stack & Skills
 
+- **Design:** UI/UX, Wireframing, Prototyping
 - **Frontend:** HTML5, CSS3, JavaScript, React
 - **Backend:** Node.js, PHP, REST APIs
-- **Databases & Tools:** MySQL, XAMPP, Git, VS Code
+- **Tools & DB:** MySQL, Git, XAMPP
 
 ---
 
- **Let's Connect:**
-[LinkedIn](https://www.linkedin.com/in/dalejwu/?isSelfProfile=true) • [Email](mailto:dalejwu@gmail.com) • [Organization](https://mihatechnologies.com/)
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/dalejwu/) • [Email](mailto:dalejwu@gmail.com) • [Website](https://mihatechnologies.com/)
