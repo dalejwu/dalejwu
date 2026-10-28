@@ -1,6 +1,6 @@
 # Dale Paña
 
-UI/UX & Product Designer with a Computer Science background based in Zamboanga City, Philippines. I design clean, functional user interfaces and turn them into responsive web applications.
+UI/UX & Frontend Developer with a Computer Science background based in Zamboanga City, Philippines. I design clean, functional user interfaces and turn them into responsive web applications.
 
 [Portfolio](https://dalejwu.vercel.app) • [LinkedIn](https://www.linkedin.com/in/dalejwu/) • [Email](mailto:dalejwu@gmail.com) • [Website](https://mihatechnologies.com/)
 
