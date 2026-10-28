@@ -1,6 +1,6 @@
 # Dale Paña
 
-UI/UX & Frontend Developer with a Computer Science background based in Zamboanga City, Philippines. I design clean, functional user interfaces and turn them into responsive web applications.
+Frontend Developer based in Zamboanga City, Philippines. I build accessible, responsive web applications with a focus on UI design systems and clean implementation.
 
 [Portfolio](https://dalejwu.vercel.app) • [LinkedIn](https://www.linkedin.com/in/dalejwu/) • [Email](mailto:dalejwu@gmail.com) • [Website](https://mihatechnologies.com/)
 
@@ -8,17 +8,22 @@ UI/UX & Frontend Developer with a Computer Science background based in Zamboanga
 
 ### What I Do
 
-- **Design Systems & UI/UX:** Wireframing, high-fidelity interactive prototyping, design systems, usability.
-- **Frontend Development:** Translating component libraries and interfaces into clean code (React, HTML5, CSS3, JavaScript).
-- **Backend Foundations:** Full-stack integration with Node.js, PHP, REST APIs, and MySQL.
+- **Interface Engineering:** Building responsive, cross-browser web interfaces using React, JavaScript, and modular CSS.
+- **Design System Implementation:** Translating Figma and UI mockups into reusable component libraries and accessible layouts.
+- **API Integration:** Connecting client applications to backend services, handling state management, and consuming REST APIs.
 
 ---
 
-### Focus & Tools
+### Tech Stack
 
-| Area | Technologies & Tools |
-| :--- | :--- |
-| **Design & UI/UX** | Wireframing, High-Fidelity Prototyping, Component Systems |
-| **Frontend** | React, JavaScript, HTML5, CSS3 |
-| **Backend & DB** | Node.js, PHP, MySQL, REST APIs |
-| **Workflow** | Git, GitHub, XAMPP |
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3
+- **Backend & APIs:** Node.js, PHP, REST APIs
+- **Database & Tools:** MySQL, Git, GitHub, XAMPP
+- **UI & Layout:** Component Systems, Responsive Design, Wireframing
+
+---
+
+### Projects
+
+- **Eatinerarya** — Dining curation platform connecting diners with local food vendors and street stalls. Built with custom UI layouts and full-stack integration.
+- **College Complaint Filing System** — Role-based web app for ticket submission, tracking, and administrative resolution.
